@@ -1,0 +1,33 @@
+{
+  "name": "AYLO Hoodie Breeding Legendary #024",
+  "symbol": "AYLO",
+  "description": "AYLO Hoodie NFT - Legendary",
+  "image": "https://raw.githubusercontent.com/brelamoon/aylo-nft-collection/main/images/hoodies-breeding-legendary/hoodie-breeding-legendary-024.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Breeding"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Level",
+      "value": 0
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/brelamoon/aylo-nft-collection/main/images/hoodies-breeding-legendary/hoodie-breeding-legendary-024.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
