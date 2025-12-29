@@ -1,0 +1,33 @@
+{
+  "name": "AYLO Sneaker Breeding Rare #020",
+  "symbol": "AYLO",
+  "description": "AYLO Sneaker NFT - Rare",
+  "image": "https://raw.githubusercontent.com/brelamoon/aylo-nft-collection/main/images/sneakers-breeding-rare/sneaker-breeding-rare-020.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Sneaker"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Breeding"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Level",
+      "value": 0
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/brelamoon/aylo-nft-collection/main/images/sneakers-breeding-rare/sneaker-breeding-rare-020.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
