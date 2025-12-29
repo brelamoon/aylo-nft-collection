@@ -1,0 +1,33 @@
+{
+  "name": "AYLO Hoodie Breeding Mythical #005",
+  "symbol": "AYLO",
+  "description": "AYLO Hoodie NFT - Mythical",
+  "image": "https://raw.githubusercontent.com/brelamoon/aylo-nft-collection/main/images/hoodies-breeding-mythical/hoodie-breeding-mythical-005.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Breeding"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Level",
+      "value": 0
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/brelamoon/aylo-nft-collection/main/images/hoodies-breeding-mythical/hoodie-breeding-mythical-005.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
