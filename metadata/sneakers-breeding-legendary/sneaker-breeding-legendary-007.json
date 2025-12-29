@@ -1,0 +1,33 @@
+{
+  "name": "AYLO Sneaker Breeding Legendary #007",
+  "symbol": "AYLO",
+  "description": "AYLO Sneaker NFT - Legendary",
+  "image": "https://raw.githubusercontent.com/brelamoon/aylo-nft-collection/main/images/sneakers-breeding-legendary/sneaker-breeding-legendary-007.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Sneaker"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Breeding"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Level",
+      "value": 0
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/brelamoon/aylo-nft-collection/main/images/sneakers-breeding-legendary/sneaker-breeding-legendary-007.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
