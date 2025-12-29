@@ -1,0 +1,29 @@
+{
+  "name": "AYLO Reward Look Complete #010",
+  "symbol": "AYLO",
+  "description": "AYLO Reward NFT",
+  "image": "https://raw.githubusercontent.com/brelamoon/aylo-nft-collection/main/images/rewards/reward-look-complete-010.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Reward"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Look Complete"
+    },
+    {
+      "trait_type": "Level",
+      "value": 0
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/brelamoon/aylo-nft-collection/main/images/rewards/reward-look-complete-010.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
