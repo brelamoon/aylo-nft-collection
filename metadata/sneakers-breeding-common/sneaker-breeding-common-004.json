@@ -1,0 +1,33 @@
+{
+  "name": "AYLO Sneaker Breeding Common #004",
+  "symbol": "AYLO",
+  "description": "AYLO Sneaker NFT - Common",
+  "image": "https://raw.githubusercontent.com/brelamoon/aylo-nft-collection/main/images/sneakers-breeding-common/sneaker-breeding-common-004.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Sneaker"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Breeding"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Level",
+      "value": 0
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/brelamoon/aylo-nft-collection/main/images/sneakers-breeding-common/sneaker-breeding-common-004.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
